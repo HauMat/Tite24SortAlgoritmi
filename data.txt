@@ -1,0 +1,294 @@
+N = 10 000
+  Eka
+    N arvolla 10000
+    Random taulu tulokset:
+    Insertion sort time: 0.0268835 seconds
+    Bubble sort time: 0.0375118 seconds
+    Quick sort time: 0.0010664 seconds
+    Merge sort time: 0.0016073 seconds
+    Shell sort time: 0.0032703 seconds
+    Array sort time: 0.0032188 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 4.03E-5 seconds
+    Bubble sort time: 7.2E-5 seconds
+    Quick sort time: 9.23E-5 seconds
+    Merge sort time: 8.497E-4 seconds
+    Shell sort time: 4.481E-4 seconds
+    Array sort time: 1.66E-4 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 0.0518669 seconds
+    Bubble sort time: 0.018363 seconds
+    Quick sort time: 1.033E-4 seconds
+    Merge sort time: 3.51E-4 seconds
+    Shell sort time: 2.768E-4 seconds
+    Array sort time: 3.114E-4 seconds
+
+  Toka
+    N arvolla 10000
+    Random taulu tulokset:
+    Insertion sort time: 0.023909 seconds
+    Bubble sort time: 0.0340959 seconds
+    Quick sort time: 0.0011959 seconds
+    Merge sort time: 0.0016807 seconds
+    Shell sort time: 0.0030671 seconds
+    Array sort time: 0.0032841 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 3.97E-5 seconds
+    Bubble sort time: 7.52E-5 seconds
+    Quick sort time: 1.193E-4 seconds
+    Merge sort time: 8.36E-4 seconds
+    Shell sort time: 1.644E-4 seconds
+    Array sort time: 1.629E-4 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 0.0535613 seconds
+    Bubble sort time: 0.0181348 seconds
+    Quick sort time: 1.213E-4 seconds
+    Merge sort time: 4.003E-4 seconds
+    Shell sort time: 1.328E-4 seconds
+    Array sort time: 3.171E-4 seconds
+
+  Kolmas
+    N arvolla 10000
+    Random taulu tulokset:
+    Insertion sort time: 0.0266692 seconds
+    Bubble sort time: 0.0355303 seconds
+    Quick sort time: 0.001201 seconds
+    Merge sort time: 0.001595 seconds
+    Shell sort time: 0.0032168 seconds
+    Array sort time: 0.0030958 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 4.35E-5 seconds
+    Bubble sort time: 7.12E-5 seconds
+    Quick sort time: 9.32E-5 seconds
+    Merge sort time: 8.512E-4 seconds
+    Shell sort time: 4.516E-4 seconds
+    Array sort time: 1.597E-4 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 0.0529499 seconds
+    Bubble sort time: 0.0174241 seconds
+    Quick sort time: 9.53E-5 seconds
+    Merge sort time: 3.564E-4 seconds
+    Shell sort time: 4.405E-4 seconds
+    Array sort time: 3.062E-4 seconds 
+
+  Neljäs
+    N arvolla 10000
+    Random taulu tulokset:
+    Insertion sort time: 0.0256469 seconds
+    Bubble sort time: 0.0361688 seconds
+    Quick sort time: 0.0013282 seconds
+    Merge sort time: 0.0020093 seconds
+    Shell sort time: 0.003117 seconds
+    Array sort time: 0.0033086 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 4.03E-5 seconds
+    Bubble sort time: 7.15E-5 seconds
+    Quick sort time: 9.36E-5 seconds
+    Merge sort time: 8.406E-4 seconds
+    Shell sort time: 4.39E-4 seconds
+    Array sort time: 1.624E-4 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 0.0507122 seconds
+    Bubble sort time: 0.0169036 seconds
+    Quick sort time: 9.38E-5 seconds
+    Merge sort time: 3.862E-4 seconds
+    Shell sort time: 4.364E-4 seconds
+    Array sort time: 3.18E-4 seconds
+
+  Viides
+    N arvolla 10000
+    Random taulu tulokset:
+    Insertion sort time: 0.0258468 seconds
+    Bubble sort time: 0.035434 seconds
+    Quick sort time: 0.0013331 seconds
+    Merge sort time: 0.0016122 seconds
+    Shell sort time: 0.0034334 seconds
+    Array sort time: 0.0032725 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 4.05E-5 seconds
+    Bubble sort time: 7.17E-5 seconds
+    Quick sort time: 9.54E-5 seconds
+    Merge sort time: 8.298E-4 seconds
+    Shell sort time: 4.421E-4 seconds
+    Array sort time: 1.611E-4 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 0.0515131 seconds
+    Bubble sort time: 0.0174251 seconds
+    Quick sort time: 9.75E-5 seconds
+    Merge sort time: 3.912E-4 seconds
+    Shell sort time: 2.458E-4 seconds
+    Array sort time: 3.23E-4 seconds
+
+
+
+N = 500 000
+  Eka
+    N arvolla 500000
+    Random taulu tulokset:
+    Insertion sort time: 46.2432247 seconds
+    Bubble sort time: 221.0515796 seconds
+    Quick sort time: 0.0476234 seconds
+    Merge sort time: 0.0557048 seconds
+    Shell sort time: 0.0623475 seconds
+    Array sort time: 0.0977569 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 0.0019484 seconds
+    Bubble sort time: 3.716E-4 seconds
+    Quick sort time: 0.0089297 seconds
+    Merge sort time: 0.019055 seconds
+    Shell sort time: 0.0106682 seconds
+    Array sort time: 0.0026591 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 98.8547501 seconds
+    Bubble sort time: 42.4881884 seconds
+    Quick sort time: 0.0055066 seconds
+    Merge sort time: 0.0230467 seconds
+    Shell sort time: 0.0105514 seconds
+    Array sort time: 0.0024001 seconds
+
+
+  Toka
+    N arvolla 500000
+    Random taulu tulokset:
+    Insertion sort time: 46.0083738 seconds
+    Bubble sort time: 220.3185836 seconds
+    Quick sort time: 0.0480649 seconds
+    Merge sort time: 0.0641534 seconds
+    Shell sort time: 0.0625189 seconds
+    Array sort time: 0.1383968 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 0.0030761 seconds
+    Bubble sort time: 4.257E-4 seconds
+    Quick sort time: 0.0056084 seconds
+    Merge sort time: 0.0212334 seconds
+    Shell sort time: 0.0101929 seconds
+    Array sort time: 0.0032665 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 98.5385892 seconds
+    Bubble sort time: 42.6088263 seconds
+    Quick sort time: 0.0057617 seconds
+    Merge sort time: 0.0235274 seconds
+    Shell sort time: 0.0117378 seconds
+    Array sort time: 0.0026442 seconds
+
+  Kolmas
+    N arvolla 500000
+    Random taulu tulokset:
+    Insertion sort time: 46.1953784 seconds
+    Bubble sort time: 227.481202 seconds
+    Quick sort time: 0.042141 seconds
+    Merge sort time: 0.0658703 seconds
+    Shell sort time: 0.0629099 seconds
+    Array sort time: 0.1250207 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 0.0018659 seconds
+    Bubble sort time: 5.014E-4 seconds
+    Quick sort time: 0.0064277 seconds
+    Merge sort time: 0.0194153 seconds
+    Shell sort time: 0.0118614 seconds
+    Array sort time: 0.0032814 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 104.4524594 seconds
+    Bubble sort time: 42.4411494 seconds
+    Quick sort time: 0.0068123 seconds
+    Merge sort time: 0.0231738 seconds
+    Shell sort time: 0.0152627 seconds
+    Array sort time: 0.002693 seconds
+
+  Neljäs
+    N arvolla 500000
+    Random taulu tulokset:
+    Insertion sort time: 45.1253378 seconds
+    Bubble sort time: 227.7544001 seconds
+    Quick sort time: 0.0458249 seconds
+    Merge sort time: 0.0640248 seconds
+    Shell sort time: 0.0624398 seconds
+    Array sort time: 0.141395 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 0.001922 seconds
+    Bubble sort time: 2.608E-4 seconds
+    Quick sort time: 0.0093164 seconds
+    Merge sort time: 0.0209632 seconds
+    Shell sort time: 0.0099825 seconds
+    Array sort time: 0.0029558 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 107.9068881 seconds
+    Bubble sort time: 42.567719 seconds
+    Quick sort time: 0.0055862 seconds
+    Merge sort time: 0.0319089 seconds
+    Shell sort time: 0.0138156 seconds
+    Array sort time: 0.0016025 seconds
+
+  Viides
+    N arvolla 500000
+    Random taulu tulokset:
+    Insertion sort time: 45.2564621 seconds
+    Bubble sort time: 227.9317444 seconds
+    Quick sort time: 0.0433098 seconds
+    Merge sort time: 0.055275 seconds
+    Shell sort time: 0.0608731 seconds
+    Array sort time: 0.1136671 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 0.0043993 seconds
+    Bubble sort time: 2.597E-4 seconds
+    Quick sort time: 0.0093523 seconds
+    Merge sort time: 0.0195414 seconds
+    Shell sort time: 0.0111356 seconds
+    Array sort time: 0.0036227 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 106.6881805 seconds
+    Bubble sort time: 42.4725758 seconds
+    Quick sort time: 0.0067192 seconds
+    Merge sort time: 0.0264825 seconds
+    Shell sort time: 0.0105602 seconds
+    Array sort time: 0.0022089 seconds
+
+ 
+ 
+ 
+  Poikkeama JIT DCE/Dead Code Eliminatione
+  Sisältää liian nopeita tuloksia 
+    N arvolla 500000
+    Random taulu tulokset:
+    Insertion sort time: 45.9363544 seconds
+    Bubble sort time: 220.0788353 seconds
+    Quick sort time: 0.0383392 seconds
+    Merge sort time: 0.0658388 seconds
+    Shell sort time: 0.0620623 seconds
+    Array sort time: 0.0823751 seconds
+
+    Nousevan taulun tulokset
+    Insertion sort time: 0.0018739 seconds
+    Bubble sort time: 2.728E-4 seconds
+    Quick sort time: 0.0064741 seconds
+    Merge sort time: 0.0204439 seconds
+    Shell sort time: 0.0109016 seconds
+    Array sort time: 0.00348 seconds
+
+    Laskevan taulun tulokset
+    Insertion sort time: 94.6058436 seconds
+    Bubble sort time: 42.3169495 seconds
+    Quick sort time: 0.0050856 seconds
+    Merge sort time: 0.0239502 seconds
+    Shell sort time: 0.0141474 seconds
+    Array sort time: 0.0021736 seconds

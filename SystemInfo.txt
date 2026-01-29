@@ -1,0 +1,11 @@
+------------------
+System Information
+------------------
+         Operating System: Windows 11 Pro 64-bit (10.0, Build 26100) (26100.ge_release.240331-1435)
+                 Language: English (Regional Setting: English)
+      System Manufacturer: ASUS
+             System Model: System Product Name
+                     BIOS: 3621 (type: UEFI)
+                Processor: AMD Ryzen 7 5800X 8-Core Processor              (16 CPUs), ~4.2GHz
+                   Memory: 16384MB RAM
+      Available OS Memory: 16292MB RAM
