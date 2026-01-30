@@ -261,7 +261,7 @@ public class Harjoitus {
     }
 
     public static void main(String[] args) {
-        int size = 500000;
+        int size = 10000;
         System.out.printf("N arvolla %d%n", size);
 
         //Random taulu

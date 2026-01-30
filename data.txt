@@ -266,7 +266,7 @@ N = 500 000
  
  
  
-  Poikkeama JIT DCE/Dead Code Eliminatione
+  Poikkeama? JIT DCE/Dead Code Elimination?
   Sisältää liian nopeita tuloksia 
     N arvolla 500000
     Random taulu tulokset:
